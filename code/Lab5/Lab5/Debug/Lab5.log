@@ -1,0 +1,5 @@
+﻿  61010280.cpp
+d:\study\programming fundamental\code\lab5\lab5\61010280.cpp(42): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\study\programming fundamental\code\lab5\lab5\61010280.cpp(47): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\study\programming fundamental\code\lab5\lab5\61010280.cpp(53): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lab5.vcxproj -> D:\study\programming fundamental\code\Lab5\Debug\Lab5.exe

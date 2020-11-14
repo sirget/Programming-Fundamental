@@ -1,0 +1,5 @@
+﻿  Game.cpp
+d:\study\programming fundamental\code\lad7\lad7\game.cpp(103): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\study\programming fundamental\code\lad7\lad7\game.cpp(182): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\study\programming fundamental\code\lad7\lad7\game.cpp(229): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lad7.vcxproj -> D:\study\programming fundamental\code\Lad7\Debug\Lad7.exe

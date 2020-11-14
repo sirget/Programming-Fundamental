@@ -1,0 +1,9 @@
+﻿  Little Boy.cpp
+d:\study\game\little boy\little boy\little boy.cpp(21): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\study\game\little boy\little boy\little boy.cpp(363): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\study\game\little boy\little boy\little boy.cpp(369): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\study\game\little boy\little boy\little boy.cpp(498): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\study\game\little boy\little boy\little boy.cpp(579): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\study\game\little boy\little boy\little boy.cpp(587): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\study\game\little boy\little boy\little boy.cpp(727): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Little Boy.vcxproj -> D:\Study\Game\Little Boy\x64\Debug\Little Boy.exe

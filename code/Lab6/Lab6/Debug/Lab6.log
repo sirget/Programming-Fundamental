@@ -1,0 +1,3 @@
+﻿  Game 4 .cpp
+d:\study\programming fundamental\code\lab6\lab6\game 4 .cpp(99): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  Lab6.vcxproj -> D:\study\programming fundamental\code\Lab6\Debug\Lab6.exe
